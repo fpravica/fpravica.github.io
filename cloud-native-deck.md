@@ -21,7 +21,7 @@ backgroundImage: url('https://marp.app/assets/hero-background.jpg')
 _www.cncf.io_
 
 ---
-# What is cloud native 2
+# What is cloud native
 - Technologies such as:
   -  containers
   -  microservices 
